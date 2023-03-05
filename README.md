@@ -54,6 +54,18 @@ rate
 7. Streamlit - for frontend
 
 
+
+
 Glimpse of the Working Website
+
 ![image](https://user-images.githubusercontent.com/103579322/222950254-3729ee07-b147-4be0-86e8-b7dfbd40f4e0.png)
 
+
+Sentiment Analysis
+
+![image](https://user-images.githubusercontent.com/103579322/222950316-d2d83dc4-a7bf-4134-b061-c68a58a54494.png)
+
+
+Prediction of the NEXT DAY (06/03/2023)
+
+![image](https://user-images.githubusercontent.com/103579322/222950364-138f98aa-33c9-44d1-b8da-d09e8f2755bd.png)
