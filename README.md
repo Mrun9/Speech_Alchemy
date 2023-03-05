@@ -52,3 +52,8 @@ rate
 5. NLTK - for classifying sentiment into positive, negative or neutral
 6. DecisionForestRegressor - for prediction of Prices of USD
 7. Streamlit - for frontend
+
+
+Glimpse of the Working Website
+![image](https://user-images.githubusercontent.com/103579322/222950254-3729ee07-b147-4be0-86e8-b7dfbd40f4e0.png)
+
